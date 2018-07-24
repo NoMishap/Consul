@@ -1,0 +1,9 @@
+ 
+{
+  "datacenter": "imolab",
+  "data_dir": "/opt/consul",
+  "log_level": "INFO",
+  "server": true,
+  "encrypt": "UjQ3caxvF1e89E3JyBaV6Q==",
+  "start_join": ["192.168.210.72"]
+}
