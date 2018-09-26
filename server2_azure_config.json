@@ -1,7 +1,7 @@
 {
   "bind_addr": "10.0.2.5",
   "datacenter": "azure",
-  "data_dir": "./Consul",
+  "data_dir": "./ConsulData",
   "log_level": "INFO",
   "server": true,
   "bootstrap_expect": 2,
