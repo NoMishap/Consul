@@ -1,15 +1,15 @@
 {
-  "bind_addr": "192.168.210.73",
+  "bind_addr": "192.168.210.74",
   "datacenter": "imolab",
   "data_dir": "./consul",
   "log_level": "INFO",
   "server": true,
   "bootstrap_expect": 3,
-  "node_name": "imolabServer2",
+  "node_name": "imolabServer3",
   "leave_on_terminate": false,
   "skip_leave_on_interrupt": true,
   "rejoin_after_leave": true,
   "encrypt": "UjQ3caxvF1e89E3JyBaV6Q==",
-  "retry_join": ["192.168.210.72","192.168.210.74"],
+  "retry_join": ["192.168.210.72","192.168.210.73"],
   "retry_join_wan": ["10.0.2.4","10.0.2.5"]
 }
