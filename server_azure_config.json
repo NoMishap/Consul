@@ -1,0 +1,13 @@
+{
+  "bind_addr": "10.0.2.4",
+  "datacenter": "azure",
+  "data_dir": "/opt/consul",
+  "log_level": "INFO",
+  "server": true,
+  "node_name": "azureServer1",
+  "leave_on_terminate": false,
+  "skip_leave_on_interrupt": true,
+  "rejoin_after_leave": true,
+  "encrypt": "UjQ3caxvF1e89E3JyBaV6Q==",
+  "retry_join_wan": ["192.168.210.72","192.168.210.73"]
+}
