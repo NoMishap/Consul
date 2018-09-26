@@ -1,7 +1,7 @@
 {
   "bind_addr": "192.168.210.73",
   "datacenter": "imolab",
-  "data_dir": "./consul",
+  "data_dir": "./Consul",
   "log_level": "INFO",
   "server": true,
   "bootstrap_expect": 3,
