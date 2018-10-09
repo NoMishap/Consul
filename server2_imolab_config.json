@@ -1,6 +1,7 @@
 {
   "bind_addr": "192.168.210.74",
   "datacenter": "imolab",
+  "client_addr": "192.168.210.74",
   "data_dir": "./ConsulData",
   "log_level": "INFO",
   "server": true,
