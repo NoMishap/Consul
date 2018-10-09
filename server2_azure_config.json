@@ -1,5 +1,6 @@
 {
   "bind_addr": "10.0.2.5",
+  "client":"192.168.210.73",
   "datacenter": "azure",
   "data_dir": "./ConsulData",
   "log_level": "INFO",
